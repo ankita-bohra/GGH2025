@@ -1,0 +1,7 @@
+Pillow
+paddlepaddle
+paddleocr
+requests
+shapely
+pyclipper
+lmdb
